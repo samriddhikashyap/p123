@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+.heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 10px lightblue;
+    font-family: 'Comfortaa', cursive;
+}
+
+.note{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: black;
+    font-family: 'Comfortaa', cursive;
+}
+
+
+.copy_right_footer{
+    font-size: 19px;
+    position: fixed;
+    bottom: 0;
+    background-color: antiquewhite;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Comfortaa', cursive;
+}
+
+canvas{
+ background-color: lightpink;
+border: 5px solid lightgoldenrodyellow;
+border-radius: 14px;
+box-shadow:9px 10px 1px  lightgreen;
+font-family: 'Comfortaa', cursive;
+}
+
+
